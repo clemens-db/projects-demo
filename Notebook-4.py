@@ -1,2 +1,2 @@
 # Databricks notebook source
-print ('hello from notebook 4 from git')
+print ('hello from notebook 4')
