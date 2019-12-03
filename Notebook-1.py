@@ -1,2 +1,8 @@
 # Databricks notebook source
-print ('Hello World from Git.. coversion')
+import mlflow
+
+with mlflow.start_run():
+  mlflow.log_metric('mname', 1.0)
+
+# COMMAND ----------
+
