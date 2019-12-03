@@ -2,7 +2,7 @@
 import mlflow
 
 with mlflow.start_run():
-  mlflow.log_metric('mname', 2.0)
+  mlflow.log_metric('mname', 3.0)
 
 # COMMAND ----------
 
