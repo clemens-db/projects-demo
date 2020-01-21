@@ -2,4 +2,4 @@
 # new
 print ('hello from github')
 
-# update from DB
+# update from Github
