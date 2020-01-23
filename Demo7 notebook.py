@@ -1,3 +1,3 @@
 # Databricks notebook source
 # test
-# update from DB
+# update from GitHub
