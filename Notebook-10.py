@@ -3,4 +3,4 @@
 
 # COMMAND ----------
 
-# test update from DB on thursday
+# test update from github on thursday
