@@ -1,10 +1,6 @@
 # Databricks notebook source
-# hello world 2
+# hello world 2 asdf
 
 # COMMAND ----------
 
 # test update from DB
-
-# COMMAND ----------
-
-# asdf update from 
