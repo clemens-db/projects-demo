@@ -3,4 +3,7 @@ print ('hello world')
 
 # COMMAND ----------
 
-asdf
+import mlflow
+
+with mlflow.start_run():
+  mlflow.log_metric('auc', 0.7)
